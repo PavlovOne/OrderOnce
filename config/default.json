@@ -1,0 +1,14 @@
+{
+    "application": {
+        "cart_title": "OrderOnce",
+        "number_products_index": 8,
+        "base_url": "http://localhost:8888",
+        "flat_shipping": 10.00,
+        "free_shipping_amount": 100.00,
+        "paypal_username": "PavlovOne",
+        "paypal_password": "1377492083",
+        "paypal_signature": "AFcWxV21C7fd0v3bYYYRCpSSRl31AhW7RF0gpHVXMlD7LmcPrNwnkEWR",
+        "paypal_cart_description": "OrderOnce Payment",
+        "paypal_currency": "USD"
+    }
+}
